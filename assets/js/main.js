@@ -1,1 +1,1 @@
-document.addEventListener("DOMContentLoaded", function () { new SweetScroll({}); particlesJS("particles-js", "/_includes/particles.json") }, !1);
+document.addEventListener("DOMContentLoaded", function () { new SweetScroll({}); particlesJS("particles-js", "{{ site.data.particles }}") }, !1);
